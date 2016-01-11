@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">money</string>
+    <string name="aus">Расходы</string>
+    <string name="ein">Доходы</string>
+    <string name="gra">График</string>
+    <string name="aus1">Food</string>
+    <string name="aus2">Alcohol</string>
+    <string name="aus3">Restaurant</string>
+    <string name="aus4">Cosmetics</string>
+    <string name="aus5">Home</string>
+    <string name="aus6">Clothes</string>
+    <string name="aus7">Pet</string>
+    <string name="aus8">Transport</string>
+    <string name="aus9">Rent</string>
+    <string name="da">Дата</string>
+    <string name="am">Сумма</string>
+    <string name="ka">Категория</string>
+    <string name="inp">Добавить</string>
+    <string name="mm">Меню</string>
+    <string name="tb">Таблица</string>
+    <string name="ob">Вывести</string>
+    <string name="del">Delete</string>
+    <string name="test">Test</string>
+    <string name="test2">Test2</string>
+
+    <string name="title_activity_aus">AusActivity</string>
+</resources>
