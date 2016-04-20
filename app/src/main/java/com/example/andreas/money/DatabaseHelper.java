@@ -20,6 +20,7 @@ public class DatabaseHelper extends SQLiteOpenHelper implements BaseColumns {
     public static final String DATE_COLUMN = "date";
     public static final String AMMOUNT_COLUMN = "ammount";
 
+
     private static final String DATABASE_CREATE_SCRIPT = "create table "
             + DATABASE_TABLE + " (" + BaseColumns._ID
             + " integer primary key autoincrement, " + CATEGORY_COLUMN

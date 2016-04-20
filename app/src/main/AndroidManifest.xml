@@ -30,6 +30,9 @@
             android:value="@integer/google_play_services_version" />
 
         <activity android:name=".Grafik" />
+        <activity android:name=".testtable" />
+        <activity android:name=".Test" />
+        <activity android:name=".List"></activity>
     </application>
 
 </manifest>
